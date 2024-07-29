@@ -1,0 +1,6 @@
+7/29/24
+Created CH2 review repo
+Pasted Chat GPT prompt into readme
+Downloaded initializr file
+Copied gitignore from initializr into existing file
+Created update and error log files
